@@ -1,0 +1,1081 @@
+{
+  "lessons": [
+    {
+      "name": "Basics",
+      "task_list": [
+        {
+          "name": "Replacing print",
+          "task_files": {
+            "replacing_print.py": {
+              "task_windows": [
+                {
+                  "line": 5,
+                  "start": 4,
+                  "hint": "lesson1task1file1_1",
+                  "possible_answer": "print",
+                  "length": 5
+                },
+                {
+                  "line": 7,
+                  "start": 4,
+                  "hint": "lesson1task1file1_2",
+                  "possible_answer": "print",
+                  "length": 5
+                },
+                {
+                  "line": 11,
+                  "start": 4,
+                  "hint": "lesson1task1file1_3",
+                  "possible_answer": "print",
+                  "length": 5
+                },
+                {
+                  "line": 15,
+                  "start": 4,
+                  "hint": "lesson1task1file1_4",
+                  "possible_answer": "print",
+                  "length": 5
+                },
+                {
+                  "line": 18,
+                  "start": 4,
+                  "hint": "lesson1task1file1_5",
+                  "possible_answer": "print",
+                  "length": 5
+                },
+                {
+                  "line": 19,
+                  "start": 4,
+                  "hint": "lesson1task1file1_6",
+                  "possible_answer": "print",
+                  "length": 5
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Log output",
+          "task_files": {
+            "log_output.py": {
+              "task_windows": [
+                {
+                  "line": 23,
+                  "start": 24,
+                  "hint": "lesson1task2file1_1",
+                  "possible_answer": "set default logging level",
+                  "length": 25
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Levels",
+          "task_files": {
+            "levels.py": {
+              "task_windows": [
+                {
+                  "line": 11,
+                  "start": 12,
+                  "hint": "lesson1task3file1_1",
+                  "possible_answer": "debug",
+                  "length": 5
+                },
+                {
+                  "line": 14,
+                  "start": 8,
+                  "hint": "lesson1task3file1_2",
+                  "possible_answer": "write a warning message to logging",
+                  "length": 34
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Loggers",
+          "task_files": {
+            "loggers.py": {
+              "task_windows": [
+                {
+                  "line": 7,
+                  "start": 4,
+                  "hint": "lesson1task4file1_1",
+                  "possible_answer": "logging",
+                  "length": 7
+                },
+                {
+                  "line": 9,
+                  "start": 4,
+                  "hint": "lesson1task4file1_2",
+                  "possible_answer": "logging",
+                  "length": 7
+                },
+                {
+                  "line": 13,
+                  "start": 4,
+                  "hint": "lesson1task4file1_3",
+                  "possible_answer": "logging",
+                  "length": 7
+                },
+                {
+                  "line": 16,
+                  "start": 8,
+                  "hint": "lesson1task4file1_4",
+                  "possible_answer": "logging",
+                  "length": 7
+                },
+                {
+                  "line": 20,
+                  "start": 4,
+                  "hint": "lesson1task4file1_5",
+                  "possible_answer": "logging",
+                  "length": 7
+                },
+                {
+                  "line": 23,
+                  "start": 4,
+                  "hint": "lesson1task4file1_6",
+                  "possible_answer": "logging",
+                  "length": 7
+                },
+                {
+                  "line": 24,
+                  "start": 4,
+                  "hint": "lesson1task4file1_7",
+                  "possible_answer": "logging",
+                  "length": 7
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Multiple Loggers",
+          "task_files": {
+            "multiple_loggers.py": {
+              "task_windows": [
+                {
+                  "line": 7,
+                  "start": 4,
+                  "hint": "lesson1task5file1_1",
+                  "possible_answer": "create a new logger instance",
+                  "length": 28
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "log method",
+          "task_files": {
+            "log_method.py": {
+              "task_windows": [
+                {
+                  "line": 7,
+                  "start": 4,
+                  "hint": "lesson1task6file1_1",
+                  "possible_answer": "logger.debug(",
+                  "length": 13
+                },
+                {
+                  "line": 9,
+                  "start": 4,
+                  "hint": "lesson1task6file1_2",
+                  "possible_answer": "logger.debug(",
+                  "length": 13
+                },
+                {
+                  "line": 13,
+                  "start": 4,
+                  "hint": "lesson1task6file1_3",
+                  "possible_answer": "logger.info(",
+                  "length": 12
+                },
+                {
+                  "line": 16,
+                  "start": 8,
+                  "hint": "lesson1task6file1_4",
+                  "possible_answer": "logger.warn(",
+                  "length": 12
+                },
+                {
+                  "line": 20,
+                  "start": 4,
+                  "hint": "lesson1task6log_method_7",
+                  "possible_answer": "logger.debug(",
+                  "length": 13
+                },
+                {
+                  "line": 23,
+                  "start": 4,
+                  "hint": "lesson1task6file1_6",
+                  "possible_answer": "logger.debug(",
+                  "length": 13
+                },
+                {
+                  "line": 24,
+                  "start": 4,
+                  "hint": "lesson1task6file1_7",
+                  "possible_answer": "logger.debug(",
+                  "length": 13
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Special log levels",
+          "task_files": {
+            "special_levels.py": {
+              "task_windows": [
+                {
+                  "line": 28,
+                  "start": 30,
+                  "hint": "lesson1task7file1_1",
+                  "possible_answer": "logging.DEBUG",
+                  "length": 13
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Selective logging",
+          "task_files": {
+            "selective_logging.py": {
+              "task_windows": [
+                {
+                  "line": 31,
+                  "start": 36,
+                  "hint": "lesson1task8selective_logging_1",
+                  "possible_answer": "specify name of logger",
+                  "length": 22
+                },
+                {
+                  "line": 32,
+                  "start": 25,
+                  "hint": "lesson1task8selective_logging_2",
+                  "possible_answer": "specify this loggers severity level",
+                  "length": 35
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Formatting",
+      "task_list": [
+        {
+          "name": "Custom format string",
+          "task_files": {
+            "custom_format_string.py": {
+              "task_windows": [
+                {
+                  "line": 29,
+                  "start": 31,
+                  "hint": "lesson2task1custom_format_string_2",
+                  "possible_answer": "custom_format_string",
+                  "length": 27
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Custom datetime format",
+          "task_files": {
+            "custom_datetime.py": {
+              "task_windows": [
+                {
+                  "line": 30,
+                  "start": 33,
+                  "hint": "lesson2task2file1_1",
+                  "possible_answer": "insert format string codes here",
+                  "length": 31
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "LogRecord attributes",
+          "task_files": {
+            "log_attributes.py": {
+              "task_windows": [
+                {
+                  "line": 29,
+                  "start": 32,
+                  "hint": "lesson2task3log_attributes_1",
+                  "possible_answer": "insert_format_string_here",
+                  "length": 25
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Exceptions",
+          "task_files": {
+            "log_exception.py": {
+              "task_windows": [
+                {
+                  "line": 26,
+                  "start": 8,
+                  "hint": "lesson2task4file1_1",
+                  "possible_answer": "pass",
+                  "length": 4
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Logging objects",
+          "task_files": {
+            "log_objects.py": {
+              "task_windows": [
+                {
+                  "line": 25,
+                  "start": 39,
+                  "hint": "lesson2task5file1_1",
+                  "possible_answer": "obj",
+                  "length": 3
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Limiting output",
+          "task_files": {
+            "limit_output.py": {
+              "task_windows": [
+                {
+                  "line": 25,
+                  "start": 57,
+                  "hint": "lesson2task6file1_1",
+                  "possible_answer": "big_list",
+                  "length": 8
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "String formatting",
+          "task_files": {
+            "string_formatting.py": {
+              "task_windows": [
+                {
+                  "line": 10,
+                  "start": 59,
+                  "hint": "lesson2task7string_formatting_1",
+                  "possible_answer": " % (\"value\", )",
+                  "length": 14
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Basic Handlers",
+      "task_list": [
+        {
+          "name": "Basic file handler",
+          "task_files": {
+            "basic_file_handler.py": {
+              "task_windows": [
+                {
+                  "line": 31,
+                  "start": 24,
+                  "hint": "lesson3task1basic_file_handler_1",
+                  "possible_answer": "setup_file_handler_here",
+                  "length": 23
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Basic truncate log file",
+          "task_files": {
+            "new_log_files.py": {
+              "task_windows": [
+                {
+                  "line": 31,
+                  "start": 34,
+                  "hint": "lesson3task2file2_1",
+                  "possible_answer": "insert_new_filemode",
+                  "length": 27
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Create file handler",
+          "task_files": {
+            "file_handler.py": {
+              "task_windows": [
+                {
+                  "line": 33,
+                  "start": 19,
+                  "hint": "lesson3task3file2_1",
+                  "possible_answer": "logging.FileHandler(log_filename)",
+                  "length": 25
+                },
+                {
+                  "line": 36,
+                  "start": 16,
+                  "hint": "lesson3task3file2_3",
+                  "possible_answer": "addHandler",
+                  "length": 21
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Set formatter",
+          "task_files": {
+            "set_formatter.py": {
+              "task_windows": [
+                {
+                  "line": 35,
+                  "start": 29,
+                  "hint": "lesson3task4file1_1",
+                  "possible_answer": "%(asctime)s %(levelname)s %(message)s",
+                  "length": 57
+                },
+                {
+                  "line": 36,
+                  "start": 17,
+                  "hint": "lesson3task4file1_2",
+                  "possible_answer": "setFormatter(fmt)",
+                  "length": 43
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Multiple handlers",
+          "task_files": {
+            "multiple_handlers.py": {
+              "task_windows": [
+                {
+                  "line": 38,
+                  "start": 21,
+                  "hint": "lesson3task5multiple_handlers_1",
+                  "possible_answer": "logging.StreamHandler",
+                  "length": 32
+                },
+                {
+                  "line": 39,
+                  "start": 4,
+                  "hint": "lesson3task5multiple_handlers_3",
+                  "possible_answer": "stdout_handler.setFormatter(fmt)",
+                  "length": 50
+                },
+                {
+                  "line": 40,
+                  "start": 27,
+                  "hint": "lesson3task5multiple_handlers_2",
+                  "possible_answer": "stdout_handler",
+                  "length": 23
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Separate handler log levels",
+          "task_files": {
+            "separate_levels.py": {
+              "task_windows": [
+                {
+                  "line": 40,
+                  "start": 19,
+                  "hint": "lesson3task6file1_1",
+                  "possible_answer": "setLevel(logging.WARNING)",
+                  "length": 17
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Advanced Handlers",
+      "task_list": [
+        {
+          "name": "Rotating files",
+          "task_files": {
+            "rotating_log_files.py": {
+              "task_windows": [
+                {
+                  "line": 3,
+                  "start": 7,
+                  "hint": "lesson4task1rotating_log_files_1",
+                  "possible_answer": "logging.handlers",
+                  "length": 52
+                },
+                {
+                  "line": 32,
+                  "start": 19,
+                  "hint": "lesson4task1rotating_log_files_2",
+                  "possible_answer": "logging.handlers.RotatingFileHandler",
+                  "length": 45
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Rotating files by time",
+          "task_files": {
+            "timed_rotation.py": {
+              "task_windows": [
+                {
+                  "line": 41,
+                  "start": 66,
+                  "hint": "lesson4task2timed_rotation_1",
+                  "possible_answer": "\u0027S\u0027",
+                  "length": 16
+                },
+                {
+                  "line": 42,
+                  "start": 70,
+                  "hint": "lesson4task2timed_rotation_2",
+                  "possible_answer": "2",
+                  "length": 21
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Memory handler",
+          "task_files": {
+            "memory_handler.py": {
+              "task_windows": [
+                {
+                  "line": 41,
+                  "start": 71,
+                  "hint": "lesson4task3memory_handler_1",
+                  "possible_answer": "file_handler",
+                  "length": 26
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "HTTP handler",
+          "task_files": {
+            "http_handler.py": {
+              "task_windows": [
+                {
+                  "line": 40,
+                  "start": 36,
+                  "hint": "lesson4task4http_handler_1",
+                  "possible_answer": "HTTPHandler",
+                  "length": 20
+                },
+                {
+                  "line": 40,
+                  "start": 63,
+                  "hint": "lesson4task4http_handler_2",
+                  "possible_answer": "127.0.0.1:8080",
+                  "length": 19
+                },
+                {
+                  "line": 41,
+                  "start": 53,
+                  "hint": "lesson4task4http_handler_3",
+                  "possible_answer": "/",
+                  "length": 13
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "shutdown",
+          "task_files": {
+            "logging_shutdown.py": {
+              "task_windows": [
+                {
+                  "line": 55,
+                  "start": 4,
+                  "hint": "lesson4task5logging_shutdown_1",
+                  "possible_answer": "logging.shutdown()",
+                  "length": 49
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Filtering",
+      "task_list": [
+        {
+          "name": "Filter object",
+          "task_files": {
+            "filter.py": {
+              "task_windows": [
+                {
+                  "line": 8,
+                  "start": 12,
+                  "hint": "lesson5task1filter_1",
+                  "possible_answer": "addFilter(log_filter)",
+                  "length": 36
+                },
+                {
+                  "line": 12,
+                  "start": 12,
+                  "hint": "lesson5task1filter_2",
+                  "possible_answer": "addFilter(log_filter)",
+                  "length": 36
+                },
+                {
+                  "line": 16,
+                  "start": 12,
+                  "hint": "lesson5task1filter_3",
+                  "possible_answer": "addFilter(log_filter)",
+                  "length": 36
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Sanitize filter",
+          "task_files": {
+            "sanitize_filter.py": {
+              "task_windows": [
+                {
+                  "line": 14,
+                  "start": 15,
+                  "hint": "lesson5task2sanitize_filter_1",
+                  "possible_answer": "insert the appropriate return value",
+                  "length": 35
+                },
+                {
+                  "line": 21,
+                  "start": 4,
+                  "hint": "lesson5task2sanitize_filter_2",
+                  "possible_answer": "add the filter object to the root logger",
+                  "length": 40
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Logger propagate",
+          "task_files": {
+            "propagate1.py": {
+              "task_windows": [
+                {
+                  "line": 14,
+                  "start": 24,
+                  "hint": "lesson5task3propagate1_2",
+                  "possible_answer": "0",
+                  "length": 42
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "NullHandler",
+          "task_files": {
+            "null_handler.py": {
+              "task_windows": [
+                {
+                  "line": 14,
+                  "start": 4,
+                  "hint": "lesson5task4file1_1",
+                  "possible_answer": "logger3.addHandler(logging.NullHandler())",
+                  "length": 29
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Configuration",
+      "task_list": [
+        {
+          "name": "fileConfig formatters",
+          "task_files": {
+            "file_config_formatters.py": {
+              "task_windows": [
+                {
+                  "line": 5,
+                  "start": 5,
+                  "hint": "lesson6task1file_config_1",
+                  "possible_answer": "formatter1",
+                  "length": 39
+                },
+                {
+                  "line": 13,
+                  "start": 11,
+                  "hint": "lesson6task1file_config_2",
+                  "possible_answer": "formatter1",
+                  "length": 27
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "fileConfig handlers",
+          "task_files": {
+            "file_config_handlers.py": {
+              "task_windows": [
+                {
+                  "line": 8,
+                  "start": 5,
+                  "hint": "lesson6task2file1_1",
+                  "possible_answer": "handler1",
+                  "length": 40
+                },
+                {
+                  "line": 16,
+                  "start": 9,
+                  "hint": "lesson6task2file1_2",
+                  "possible_answer": "handler1",
+                  "length": 40
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "fileConfig loggers",
+          "task_files": {
+            "file_config_loggers.py": {
+              "task_windows": [
+                {
+                  "line": 11,
+                  "start": 5,
+                  "hint": "lesson6task3file_config_loggers_1",
+                  "possible_answer": "root",
+                  "length": 31
+                },
+                {
+                  "line": 21,
+                  "start": 8,
+                  "hint": "lesson6task3file_config_loggers_2",
+                  "possible_answer": "root",
+                  "length": 34
+                },
+                {
+                  "line": 22,
+                  "start": 9,
+                  "hint": "lesson6task3file_config_loggers_3",
+                  "possible_answer": "handler1",
+                  "length": 30
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "fileConfig multiple handlers",
+          "task_files": {
+            "file_config_multiple_handlers.py": {
+              "task_windows": [
+                {
+                  "line": 11,
+                  "start": 15,
+                  "hint": "lesson6task4file_config_multiple_handlers_1",
+                  "possible_answer": "file",
+                  "length": 32
+                },
+                {
+                  "line": 21,
+                  "start": 9,
+                  "possible_answer": "file",
+                  "length": 32
+                },
+                {
+                  "line": 27,
+                  "start": 19,
+                  "hint": "lesson6task4file_config_multiple_handlers_3",
+                  "possible_answer": "file",
+                  "length": 32
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "dictConfig",
+          "task_files": {
+            "dict_config.py": {
+              "task_windows": [
+                {
+                  "line": 24,
+                  "start": 30,
+                  "hint": "lesson6task5dict_config_1",
+                  "possible_answer": "console",
+                  "length": 40
+                },
+                {
+                  "line": 29,
+                  "start": 30,
+                  "hint": "lesson6task5dict_config_2",
+                  "possible_answer": "log_config",
+                  "length": 49
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "dictConfig existing loggers",
+          "task_files": {
+            "dict_config_existing_loggers.py": {
+              "task_windows": [
+                {
+                  "line": 27,
+                  "start": 9,
+                  "hint": "lesson6task6dict_config_existing_loggers_3",
+                  "possible_answer": "disable_existing_loggers",
+                  "length": 21
+                },
+                {
+                  "line": 27,
+                  "start": 33,
+                  "hint": "lesson6task6dict_config_existing_loggers_3b",
+                  "possible_answer": "False",
+                  "length": 19
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Customization",
+      "task_list": [
+        {
+          "name": "JSON Formatter",
+          "task_files": {
+            "json_formatter.py": {
+              "task_windows": [
+                {
+                  "line": 27,
+                  "start": 4,
+                  "hint": "lesson7task1file1_1",
+                  "possible_answer": "add the formatter to the handler",
+                  "length": 32
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Smart memory handler",
+          "task_files": {
+            "smart_memory_handler.py": {
+              "task_windows": [
+                {
+                  "line": 53,
+                  "start": 21,
+                  "hint": "lesson7task2smart_memory_handler_1",
+                  "possible_answer": "use our SmartMemoryHandler with same options here",
+                  "length": 49
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Best Practices",
+      "task_list": [
+        {
+          "name": "Logger naming",
+          "task_files": {
+            "logger_naming.py": {
+              "task_windows": [
+                {
+                  "line": 4,
+                  "start": 27,
+                  "hint": "lesson8task1file1_1",
+                  "possible_answer": "specify the name of the current module",
+                  "length": 38
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Private loggers",
+          "task_files": {
+            "private_logger.py": {
+              "task_windows": [
+                {
+                  "line": 30,
+                  "start": 49,
+                  "hint": "lesson8task2file1_1",
+                  "possible_answer": "first class logger specific name",
+                  "length": 32
+                },
+                {
+                  "line": 31,
+                  "start": 4,
+                  "hint": "lesson8task2file1_2",
+                  "possible_answer": "set the logging level to DEBUG",
+                  "length": 30
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Conditional logging",
+          "task_files": {
+            "conditional_logging.py": {
+              "task_windows": [
+                {
+                  "line": 13,
+                  "start": 4,
+                  "hint": "lesson8task3file1_1",
+                  "possible_answer": "insert conditional code to test for this logging level",
+                  "length": 54
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Logging in Libraries",
+          "task_files": {
+            "library_logging.py": {
+              "task_windows": [
+                {
+                  "line": 5,
+                  "start": 0,
+                  "hint": "lesson8task4file1_1",
+                  "possible_answer": "logger.addHandler(logging.FileHandler(\u0027library.log\u0027))",
+                  "length": 53
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Using the right levels",
+          "task_files": {
+            "right_levels.py": {
+              "task_windows": [
+                {
+                  "line": 11,
+                  "start": 24,
+                  "hint": "lesson8task5file1_1",
+                  "possible_answer": "DEBUG",
+                  "length": 16
+                },
+                {
+                  "line": 13,
+                  "start": 24,
+                  "hint": "lesson8task5file1_2",
+                  "possible_answer": "DEBUG",
+                  "length": 16
+                },
+                {
+                  "line": 15,
+                  "start": 24,
+                  "hint": "lesson8task5file1_3",
+                  "possible_answer": "DEBUG",
+                  "length": 16
+                },
+                {
+                  "line": 17,
+                  "start": 24,
+                  "hint": "lesson8task5file1_4",
+                  "possible_answer": "DEBUG",
+                  "length": 16
+                },
+                {
+                  "line": 19,
+                  "start": 24,
+                  "hint": "lesson8task5file1_5",
+                  "possible_answer": "DEBUG",
+                  "length": 16
+                },
+                {
+                  "line": 21,
+                  "start": 24,
+                  "hint": "lesson8task5file1_6",
+                  "possible_answer": "DEBUG",
+                  "length": 16
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Using a decorator",
+          "task_files": {
+            "logging_decorator.py": {
+              "task_windows": [
+                {
+                  "line": 15,
+                  "start": 0,
+                  "hint": "lesson8task6file1_1",
+                  "possible_answer": "add our logging decorator do this function",
+                  "length": 42
+                },
+                {
+                  "line": 22,
+                  "start": 24,
+                  "hint": "lesson8task6file1_2",
+                  "possible_answer": "configure the log level to ensure we see the decorator output",
+                  "length": 61
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Just enough context",
+          "task_files": {
+            "context.py": {
+              "task_windows": [
+                {
+                  "line": 7,
+                  "start": 26,
+                  "hint": "lesson8task7context_2",
+                  "possible_answer": "\u0027exception during service call\u0027",
+                  "length": 37
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "description": "This course provides an introduction to the standard Python logging module. \nIt includes basic and advanced examples that can help you debug your Python software. Best practices are demonstrated to help you get the most out of Python logging. \nThis course was tested using Python 2.7 and Python 3.4.\n",
+  "name": "Logging in Python",
+  "author": "John Zurawski"
+}

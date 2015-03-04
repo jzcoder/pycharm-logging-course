@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lesson1/task1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson1/task2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson1/task3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson1/task4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson1/task5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson1/task6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson2/task1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson2/task2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson2/task3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson3/task1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson3/task2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson3/task3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson3/task4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson3/task5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson3/task6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson2/task4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson8/task1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson8/task2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson8/task3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson8/task4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson2/task5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson2/task6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson8/task5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson8/task6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson7/task1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson8/task7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson7/task2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson4/task1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson4/task2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson6/task1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson6/task2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson6/task3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson5/task1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson5/task2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson1/task7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson1/task8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson7/task3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson4/task3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson6/task4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson5/task3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson4/task4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson4/task5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson7/task4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson5/task4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson2/task7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson6/task5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson6/task6" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
