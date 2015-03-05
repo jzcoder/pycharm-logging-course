@@ -16,5 +16,4 @@ Course Outline:
 - Customization
 - Best Practices
 
-
-* This course was developed using PyCharm Educational Edition 1.0.1
+*This course was developed using PyCharm Educational Edition 1.0.1*
