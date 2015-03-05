@@ -1473,13 +1473,13 @@
                                   <option name="line" value="10" />
                                   <option name="replacementLength" value="14" />
                                   <option name="start" value="59" />
-                                  <option name="taskText" value=" % (&quot;value&quot;, )" />
+                                  <option name="taskText" value=" % ('value', )" />
                                   <option name="line" value="10" />
                                   <option name="start" value="59" />
                                   <option name="hint" value="lesson2task7string_formatting_1" />
                                   <option name="possible_answer" value=" % (&quot;value&quot;, )" />
                                   <option name="length" value="0" />
-                                  <option name="myTaskText" value=" % (&quot;value&quot;, )" />
+                                  <option name="myTaskText" value=" % ('value', )" />
                                   <option name="myReplacementLength" value="14" />
                                   <option name="myIndex" value="1" />
                                 </TaskWindow>
@@ -1756,13 +1756,13 @@
                                       <option name="line" value="10" />
                                       <option name="replacementLength" value="14" />
                                       <option name="start" value="59" />
-                                      <option name="taskText" value=" % (&quot;value&quot;, )" />
+                                      <option name="taskText" value=" % ('value', )" />
                                       <option name="line" value="10" />
                                       <option name="start" value="59" />
                                       <option name="hint" value="lesson2task7string_formatting_1" />
                                       <option name="possible_answer" value=" % (&quot;value&quot;, )" />
                                       <option name="length" value="0" />
-                                      <option name="myTaskText" value=" % (&quot;value&quot;, )" />
+                                      <option name="myTaskText" value=" % ('value', )" />
                                       <option name="myReplacementLength" value="14" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
@@ -2627,6 +2627,58 @@
                   </option>
                   <option name="myIndex" value="5" />
                 </Task>
+                <Task>
+                  <option name="index" value="6" />
+                  <option name="name" value="Removing handlers" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="remove_handler.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="21" />
+                                  <option name="replacementLength" value="5" />
+                                  <option name="start" value="30" />
+                                  <option name="taskText" value="enter the logger name" />
+                                  <option name="line" value="21" />
+                                  <option name="start" value="30" />
+                                  <option name="hint" value="lesson4task6remove_handler_2" />
+                                  <option name="possible_answer" value="'A.B'" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="enter the logger name" />
+                                  <option name="myReplacementLength" value="5" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="2" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="26" />
+                                  <option name="replacementLength" value="28" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="insert code to remove handler from A.B logger" />
+                                  <option name="line" value="26" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" value="lesson4task6remove_handler_1" />
+                                  <option name="possible_answer" value="b_log.removeHandler(handler)" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="insert code to remove handler from A.B logger" />
+                                  <option name="myReplacementLength" value="28" />
+                                  <option name="myIndex" value="2" />
+                                </TaskWindow>
+                              </list>
+                            </option>
+                            <option name="myIndex" value="6" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="6" />
+                </Task>
               </list>
             </option>
             <option name="myIndex" value="4" />
@@ -2896,6 +2948,62 @@
                     </Task>
                   </value>
                 </entry>
+                <entry key="task6">
+                  <value>
+                    <Task>
+                      <option name="index" value="6" />
+                      <option name="name" value="Removing handlers" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="remove_handler.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="21" />
+                                      <option name="replacementLength" value="5" />
+                                      <option name="start" value="30" />
+                                      <option name="taskText" value="enter the logger name" />
+                                      <option name="line" value="21" />
+                                      <option name="start" value="30" />
+                                      <option name="hint" value="lesson4task6remove_handler_2" />
+                                      <option name="possible_answer" value="'A.B'" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="enter the logger name" />
+                                      <option name="myReplacementLength" value="5" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="26" />
+                                      <option name="replacementLength" value="28" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="insert code to remove handler from A.B logger" />
+                                      <option name="line" value="26" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson4task6remove_handler_1" />
+                                      <option name="possible_answer" value="b_log.removeHandler(handler)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="insert code to remove handler from A.B logger" />
+                                      <option name="myReplacementLength" value="28" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="6" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="6" />
+                    </Task>
+                  </value>
+                </entry>
               </map>
             </option>
           </Lesson>
@@ -3095,6 +3203,58 @@
                     </map>
                   </option>
                   <option name="myIndex" value="4" />
+                </Task>
+                <Task>
+                  <option name="index" value="5" />
+                  <option name="name" value="Filtering on handler" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="filtering_handler.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="7" />
+                                  <option name="replacementLength" value="19" />
+                                  <option name="start" value="11" />
+                                  <option name="taskText" value="get the root logger" />
+                                  <option name="line" value="7" />
+                                  <option name="start" value="11" />
+                                  <option name="hint" value="lesson5task5filtering_handler_1" />
+                                  <option name="possible_answer" value="logging.getLogger()" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="get the root logger" />
+                                  <option name="myReplacementLength" value="19" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="2" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="9" />
+                                  <option name="replacementLength" value="29" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="add the filter to each handler" />
+                                  <option name="line" value="9" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" value="lesson5task5filtering_handler_2" />
+                                  <option name="possible_answer" value="handler.addFilter(log_filter)" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="add the filter to each handler" />
+                                  <option name="myReplacementLength" value="29" />
+                                  <option name="myIndex" value="2" />
+                                </TaskWindow>
+                              </list>
+                            </option>
+                            <option name="myIndex" value="5" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="5" />
                 </Task>
               </list>
             </option>
@@ -3306,6 +3466,62 @@
                         </map>
                       </option>
                       <option name="myIndex" value="4" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task5">
+                  <value>
+                    <Task>
+                      <option name="index" value="5" />
+                      <option name="name" value="Filtering on handler" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="filtering_handler.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="7" />
+                                      <option name="replacementLength" value="19" />
+                                      <option name="start" value="11" />
+                                      <option name="taskText" value="get the root logger" />
+                                      <option name="line" value="7" />
+                                      <option name="start" value="11" />
+                                      <option name="hint" value="lesson5task5filtering_handler_1" />
+                                      <option name="possible_answer" value="logging.getLogger()" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="get the root logger" />
+                                      <option name="myReplacementLength" value="19" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="9" />
+                                      <option name="replacementLength" value="29" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="add the filter to each handler" />
+                                      <option name="line" value="9" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson5task5filtering_handler_2" />
+                                      <option name="possible_answer" value="handler.addFilter(log_filter)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="add the filter to each handler" />
+                                      <option name="myReplacementLength" value="29" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="5" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="5" />
                     </Task>
                   </value>
                 </entry>
@@ -3660,6 +3876,42 @@
                     </map>
                   </option>
                   <option name="myIndex" value="6" />
+                </Task>
+                <Task>
+                  <option name="index" value="7" />
+                  <option name="name" value="dictConfig root shortcut" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="dict_config_root.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="22" />
+                                  <option name="replacementLength" value="4" />
+                                  <option name="start" value="9" />
+                                  <option name="taskText" value="enter name of root logger" />
+                                  <option name="line" value="22" />
+                                  <option name="start" value="9" />
+                                  <option name="hint" value="lesson6task7dict_config_root_1" />
+                                  <option name="possible_answer" value="root" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="enter name of root logger" />
+                                  <option name="myReplacementLength" value="4" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                              </list>
+                            </option>
+                            <option name="myIndex" value="7" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="7" />
                 </Task>
               </list>
             </option>
@@ -4034,6 +4286,46 @@
                     </Task>
                   </value>
                 </entry>
+                <entry key="task7">
+                  <value>
+                    <Task>
+                      <option name="index" value="7" />
+                      <option name="name" value="dictConfig root shortcut" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="dict_config_root.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="22" />
+                                      <option name="replacementLength" value="4" />
+                                      <option name="start" value="9" />
+                                      <option name="taskText" value="enter name of root logger" />
+                                      <option name="line" value="22" />
+                                      <option name="start" value="9" />
+                                      <option name="hint" value="lesson6task7dict_config_root_1" />
+                                      <option name="possible_answer" value="root" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="enter name of root logger" />
+                                      <option name="myReplacementLength" value="4" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="7" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="7" />
+                    </Task>
+                  </value>
+                </entry>
               </map>
             </option>
           </Lesson>
@@ -4113,6 +4405,94 @@
                     </map>
                   </option>
                   <option name="myIndex" value="2" />
+                </Task>
+                <Task>
+                  <option name="index" value="3" />
+                  <option name="name" value="Database Handler" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="db_handler.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="24" />
+                                  <option name="replacementLength" value="4" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="insert the method name used by a handler to output log records" />
+                                  <option name="line" value="24" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" value="lesson7task3db_handler_1" />
+                                  <option name="possible_answer" value="emit" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="insert the method name used by a handler to output log records" />
+                                  <option name="myReplacementLength" value="4" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                              </list>
+                            </option>
+                            <option name="myIndex" value="3" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="3" />
+                </Task>
+                <Task>
+                  <option name="index" value="4" />
+                  <option name="name" value="Injecting data" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="inject_filter.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="9" />
+                                  <option name="replacementLength" value="6" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="enter the name of the method used to filter records" />
+                                  <option name="line" value="9" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" value="lesson7task4inject_filter_1" />
+                                  <option name="possible_answer" value="filter" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="enter the name of the method used to filter records" />
+                                  <option name="myReplacementLength" value="6" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="2" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="11" />
+                                  <option name="replacementLength" value="4" />
+                                  <option name="start" value="15" />
+                                  <option name="taskText" value="enter the return value to always allow records to be handled" />
+                                  <option name="line" value="11" />
+                                  <option name="start" value="15" />
+                                  <option name="hint" value="lesson7task4inject_filter_2" />
+                                  <option name="possible_answer" value="True" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="enter the return value to always allow records to be handled" />
+                                  <option name="myReplacementLength" value="4" />
+                                  <option name="myIndex" value="2" />
+                                </TaskWindow>
+                              </list>
+                            </option>
+                            <option name="myIndex" value="4" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="4" />
                 </Task>
               </list>
             </option>
@@ -4196,6 +4576,102 @@
                         </map>
                       </option>
                       <option name="myIndex" value="2" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task3">
+                  <value>
+                    <Task>
+                      <option name="index" value="3" />
+                      <option name="name" value="Database Handler" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="db_handler.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="24" />
+                                      <option name="replacementLength" value="4" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="insert the method name used by a handler to output log records" />
+                                      <option name="line" value="24" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson7task3db_handler_1" />
+                                      <option name="possible_answer" value="emit" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="insert the method name used by a handler to output log records" />
+                                      <option name="myReplacementLength" value="4" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="3" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="3" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task4">
+                  <value>
+                    <Task>
+                      <option name="index" value="4" />
+                      <option name="name" value="Injecting data" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="inject_filter.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="9" />
+                                      <option name="replacementLength" value="6" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="enter the name of the method used to filter records" />
+                                      <option name="line" value="9" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson7task4inject_filter_1" />
+                                      <option name="possible_answer" value="filter" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="enter the name of the method used to filter records" />
+                                      <option name="myReplacementLength" value="6" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="11" />
+                                      <option name="replacementLength" value="4" />
+                                      <option name="start" value="15" />
+                                      <option name="taskText" value="enter the return value to always allow records to be handled" />
+                                      <option name="line" value="11" />
+                                      <option name="start" value="15" />
+                                      <option name="hint" value="lesson7task4inject_filter_2" />
+                                      <option name="possible_answer" value="True" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="enter the return value to always allow records to be handled" />
+                                      <option name="myReplacementLength" value="4" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="4" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="4" />
                     </Task>
                   </value>
                 </entry>
@@ -6450,13 +6926,13 @@
                                       <option name="line" value="10" />
                                       <option name="replacementLength" value="14" />
                                       <option name="start" value="59" />
-                                      <option name="taskText" value=" % (&quot;value&quot;, )" />
+                                      <option name="taskText" value=" % ('value', )" />
                                       <option name="line" value="10" />
                                       <option name="start" value="59" />
                                       <option name="hint" value="lesson2task7string_formatting_1" />
                                       <option name="possible_answer" value=" % (&quot;value&quot;, )" />
                                       <option name="length" value="0" />
-                                      <option name="myTaskText" value=" % (&quot;value&quot;, )" />
+                                      <option name="myTaskText" value=" % ('value', )" />
                                       <option name="myReplacementLength" value="14" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
@@ -6733,13 +7209,13 @@
                                           <option name="line" value="10" />
                                           <option name="replacementLength" value="14" />
                                           <option name="start" value="59" />
-                                          <option name="taskText" value=" % (&quot;value&quot;, )" />
+                                          <option name="taskText" value=" % ('value', )" />
                                           <option name="line" value="10" />
                                           <option name="start" value="59" />
                                           <option name="hint" value="lesson2task7string_formatting_1" />
                                           <option name="possible_answer" value=" % (&quot;value&quot;, )" />
                                           <option name="length" value="0" />
-                                          <option name="myTaskText" value=" % (&quot;value&quot;, )" />
+                                          <option name="myTaskText" value=" % ('value', )" />
                                           <option name="myReplacementLength" value="14" />
                                           <option name="myIndex" value="1" />
                                         </TaskWindow>
@@ -7612,6 +8088,58 @@
                       </option>
                       <option name="myIndex" value="5" />
                     </Task>
+                    <Task>
+                      <option name="index" value="6" />
+                      <option name="name" value="Removing handlers" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="remove_handler.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="21" />
+                                      <option name="replacementLength" value="5" />
+                                      <option name="start" value="30" />
+                                      <option name="taskText" value="enter the logger name" />
+                                      <option name="line" value="21" />
+                                      <option name="start" value="30" />
+                                      <option name="hint" value="lesson4task6remove_handler_2" />
+                                      <option name="possible_answer" value="'A.B'" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="enter the logger name" />
+                                      <option name="myReplacementLength" value="5" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="26" />
+                                      <option name="replacementLength" value="28" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="insert code to remove handler from A.B logger" />
+                                      <option name="line" value="26" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson4task6remove_handler_1" />
+                                      <option name="possible_answer" value="b_log.removeHandler(handler)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="insert code to remove handler from A.B logger" />
+                                      <option name="myReplacementLength" value="28" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="6" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="6" />
+                    </Task>
                   </list>
                 </option>
                 <option name="myIndex" value="4" />
@@ -7881,6 +8409,62 @@
                         </Task>
                       </value>
                     </entry>
+                    <entry key="task6">
+                      <value>
+                        <Task>
+                          <option name="index" value="6" />
+                          <option name="name" value="Removing handlers" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="remove_handler.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="21" />
+                                          <option name="replacementLength" value="5" />
+                                          <option name="start" value="30" />
+                                          <option name="taskText" value="enter the logger name" />
+                                          <option name="line" value="21" />
+                                          <option name="start" value="30" />
+                                          <option name="hint" value="lesson4task6remove_handler_2" />
+                                          <option name="possible_answer" value="'A.B'" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="enter the logger name" />
+                                          <option name="myReplacementLength" value="5" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="2" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="26" />
+                                          <option name="replacementLength" value="28" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="insert code to remove handler from A.B logger" />
+                                          <option name="line" value="26" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" value="lesson4task6remove_handler_1" />
+                                          <option name="possible_answer" value="b_log.removeHandler(handler)" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="insert code to remove handler from A.B logger" />
+                                          <option name="myReplacementLength" value="28" />
+                                          <option name="myIndex" value="2" />
+                                        </TaskWindow>
+                                      </list>
+                                    </option>
+                                    <option name="myIndex" value="6" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="6" />
+                        </Task>
+                      </value>
+                    </entry>
                   </map>
                 </option>
               </Lesson>
@@ -8084,6 +8668,58 @@
                         </map>
                       </option>
                       <option name="myIndex" value="4" />
+                    </Task>
+                    <Task>
+                      <option name="index" value="5" />
+                      <option name="name" value="Filtering on handler" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="filtering_handler.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="7" />
+                                      <option name="replacementLength" value="19" />
+                                      <option name="start" value="11" />
+                                      <option name="taskText" value="get the root logger" />
+                                      <option name="line" value="7" />
+                                      <option name="start" value="11" />
+                                      <option name="hint" value="lesson5task5filtering_handler_1" />
+                                      <option name="possible_answer" value="logging.getLogger()" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="get the root logger" />
+                                      <option name="myReplacementLength" value="19" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="9" />
+                                      <option name="replacementLength" value="29" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="add the filter to each handler" />
+                                      <option name="line" value="9" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson5task5filtering_handler_2" />
+                                      <option name="possible_answer" value="handler.addFilter(log_filter)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="add the filter to each handler" />
+                                      <option name="myReplacementLength" value="29" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="5" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="5" />
                     </Task>
                   </list>
                 </option>
@@ -8295,6 +8931,62 @@
                             </map>
                           </option>
                           <option name="myIndex" value="4" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task5">
+                      <value>
+                        <Task>
+                          <option name="index" value="5" />
+                          <option name="name" value="Filtering on handler" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="filtering_handler.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="7" />
+                                          <option name="replacementLength" value="19" />
+                                          <option name="start" value="11" />
+                                          <option name="taskText" value="get the root logger" />
+                                          <option name="line" value="7" />
+                                          <option name="start" value="11" />
+                                          <option name="hint" value="lesson5task5filtering_handler_1" />
+                                          <option name="possible_answer" value="logging.getLogger()" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="get the root logger" />
+                                          <option name="myReplacementLength" value="19" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="2" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="9" />
+                                          <option name="replacementLength" value="29" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="add the filter to each handler" />
+                                          <option name="line" value="9" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" value="lesson5task5filtering_handler_2" />
+                                          <option name="possible_answer" value="handler.addFilter(log_filter)" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="add the filter to each handler" />
+                                          <option name="myReplacementLength" value="29" />
+                                          <option name="myIndex" value="2" />
+                                        </TaskWindow>
+                                      </list>
+                                    </option>
+                                    <option name="myIndex" value="5" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="5" />
                         </Task>
                       </value>
                     </entry>
@@ -8653,6 +9345,42 @@
                         </map>
                       </option>
                       <option name="myIndex" value="6" />
+                    </Task>
+                    <Task>
+                      <option name="index" value="7" />
+                      <option name="name" value="dictConfig root shortcut" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="dict_config_root.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="22" />
+                                      <option name="replacementLength" value="4" />
+                                      <option name="start" value="9" />
+                                      <option name="taskText" value="enter name of root logger" />
+                                      <option name="line" value="22" />
+                                      <option name="start" value="9" />
+                                      <option name="hint" value="lesson6task7dict_config_root_1" />
+                                      <option name="possible_answer" value="root" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="enter name of root logger" />
+                                      <option name="myReplacementLength" value="4" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="7" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="7" />
                     </Task>
                   </list>
                 </option>
@@ -9027,6 +9755,46 @@
                         </Task>
                       </value>
                     </entry>
+                    <entry key="task7">
+                      <value>
+                        <Task>
+                          <option name="index" value="7" />
+                          <option name="name" value="dictConfig root shortcut" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="dict_config_root.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="22" />
+                                          <option name="replacementLength" value="4" />
+                                          <option name="start" value="9" />
+                                          <option name="taskText" value="enter name of root logger" />
+                                          <option name="line" value="22" />
+                                          <option name="start" value="9" />
+                                          <option name="hint" value="lesson6task7dict_config_root_1" />
+                                          <option name="possible_answer" value="root" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="enter name of root logger" />
+                                          <option name="myReplacementLength" value="4" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                      </list>
+                                    </option>
+                                    <option name="myIndex" value="7" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="7" />
+                        </Task>
+                      </value>
+                    </entry>
                   </map>
                 </option>
               </Lesson>
@@ -9111,6 +9879,94 @@
                       </option>
                       <option name="myIndex" value="2" />
                     </Task>
+                    <Task>
+                      <option name="index" value="3" />
+                      <option name="name" value="Database Handler" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="db_handler.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="24" />
+                                      <option name="replacementLength" value="4" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="insert the method name used by a handler to output log records" />
+                                      <option name="line" value="24" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson7task3db_handler_1" />
+                                      <option name="possible_answer" value="emit" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="insert the method name used by a handler to output log records" />
+                                      <option name="myReplacementLength" value="4" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="3" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="3" />
+                    </Task>
+                    <Task>
+                      <option name="index" value="4" />
+                      <option name="name" value="Injecting data" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="inject_filter.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="9" />
+                                      <option name="replacementLength" value="6" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="enter the name of the method used to filter records" />
+                                      <option name="line" value="9" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson7task4inject_filter_1" />
+                                      <option name="possible_answer" value="filter" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="enter the name of the method used to filter records" />
+                                      <option name="myReplacementLength" value="6" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="11" />
+                                      <option name="replacementLength" value="4" />
+                                      <option name="start" value="15" />
+                                      <option name="taskText" value="enter the return value to always allow records to be handled" />
+                                      <option name="line" value="11" />
+                                      <option name="start" value="15" />
+                                      <option name="hint" value="lesson7task4inject_filter_2" />
+                                      <option name="possible_answer" value="True" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="enter the return value to always allow records to be handled" />
+                                      <option name="myReplacementLength" value="4" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="4" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="4" />
+                    </Task>
                   </list>
                 </option>
                 <option name="myIndex" value="7" />
@@ -9193,6 +10049,102 @@
                             </map>
                           </option>
                           <option name="myIndex" value="2" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task3">
+                      <value>
+                        <Task>
+                          <option name="index" value="3" />
+                          <option name="name" value="Database Handler" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="db_handler.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="24" />
+                                          <option name="replacementLength" value="4" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="insert the method name used by a handler to output log records" />
+                                          <option name="line" value="24" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" value="lesson7task3db_handler_1" />
+                                          <option name="possible_answer" value="emit" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="insert the method name used by a handler to output log records" />
+                                          <option name="myReplacementLength" value="4" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                      </list>
+                                    </option>
+                                    <option name="myIndex" value="3" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="3" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task4">
+                      <value>
+                        <Task>
+                          <option name="index" value="4" />
+                          <option name="name" value="Injecting data" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="inject_filter.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="9" />
+                                          <option name="replacementLength" value="6" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="enter the name of the method used to filter records" />
+                                          <option name="line" value="9" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" value="lesson7task4inject_filter_1" />
+                                          <option name="possible_answer" value="filter" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="enter the name of the method used to filter records" />
+                                          <option name="myReplacementLength" value="6" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="2" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="11" />
+                                          <option name="replacementLength" value="4" />
+                                          <option name="start" value="15" />
+                                          <option name="taskText" value="enter the return value to always allow records to be handled" />
+                                          <option name="line" value="11" />
+                                          <option name="start" value="15" />
+                                          <option name="hint" value="lesson7task4inject_filter_2" />
+                                          <option name="possible_answer" value="True" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="enter the return value to always allow records to be handled" />
+                                          <option name="myReplacementLength" value="4" />
+                                          <option name="myIndex" value="2" />
+                                        </TaskWindow>
+                                      </list>
+                                    </option>
+                                    <option name="myIndex" value="4" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="4" />
                         </Task>
                       </value>
                     </entry>

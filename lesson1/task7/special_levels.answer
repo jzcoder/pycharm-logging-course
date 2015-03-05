@@ -11,7 +11,7 @@ def get_current_rate(years):
     return rate
 
 def get_monthly_payment(principal, years):
-    logger.info("Calling mortgage calculator")
+    logger.info('Calling mortgage calculator')
 
     if years > 50:
         logger.warn('Term greater than 50 years')
@@ -21,8 +21,8 @@ def get_monthly_payment(principal, years):
     logger.debug('Number of monthly payments %d' % payments)
     result = principal * (mon_rate/(1-math.pow((1+mon_rate), -payments)))
 
-    logger.debug("Calculated result is %f" % result)
-    logger.debug("Leaving mortgage calculator")
+    logger.debug('Calculated result is %f' % result)
+    logger.debug('Leaving mortgage calculator')
     return result
 
 if __name__ == '__main__':

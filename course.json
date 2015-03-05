@@ -622,6 +622,29 @@
               ]
             }
           }
+        },
+        {
+          "name": "Removing handlers",
+          "task_files": {
+            "remove_handler.py": {
+              "task_windows": [
+                {
+                  "line": 21,
+                  "start": 30,
+                  "hint": "lesson4task6remove_handler_2",
+                  "possible_answer": "\u0027A.B\u0027",
+                  "length": 21
+                },
+                {
+                  "line": 26,
+                  "start": 8,
+                  "hint": "lesson4task6remove_handler_1",
+                  "possible_answer": "b_log.removeHandler(handler)",
+                  "length": 45
+                }
+              ]
+            }
+          }
         }
       ]
     },
@@ -708,6 +731,29 @@
                   "hint": "lesson5task4file1_1",
                   "possible_answer": "logger3.addHandler(logging.NullHandler())",
                   "length": 29
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Filtering on handler",
+          "task_files": {
+            "filtering_handler.py": {
+              "task_windows": [
+                {
+                  "line": 7,
+                  "start": 11,
+                  "hint": "lesson5task5filtering_handler_1",
+                  "possible_answer": "logging.getLogger()",
+                  "length": 19
+                },
+                {
+                  "line": 9,
+                  "start": 8,
+                  "hint": "lesson5task5filtering_handler_2",
+                  "possible_answer": "handler.addFilter(log_filter)",
+                  "length": 30
                 }
               ]
             }
@@ -868,6 +914,22 @@
               ]
             }
           }
+        },
+        {
+          "name": "dictConfig root shortcut",
+          "task_files": {
+            "dict_config_root.py": {
+              "task_windows": [
+                {
+                  "line": 22,
+                  "start": 9,
+                  "hint": "lesson6task7dict_config_root_1",
+                  "possible_answer": "root",
+                  "length": 25
+                }
+              ]
+            }
+          }
         }
       ]
     },
@@ -901,6 +963,45 @@
                   "hint": "lesson7task2smart_memory_handler_1",
                   "possible_answer": "use our SmartMemoryHandler with same options here",
                   "length": 49
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Database Handler",
+          "task_files": {
+            "db_handler.py": {
+              "task_windows": [
+                {
+                  "line": 24,
+                  "start": 8,
+                  "hint": "lesson7task3db_handler_1",
+                  "possible_answer": "emit",
+                  "length": 62
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Injecting data",
+          "task_files": {
+            "inject_filter.py": {
+              "task_windows": [
+                {
+                  "line": 9,
+                  "start": 8,
+                  "hint": "lesson7task4inject_filter_1",
+                  "possible_answer": "filter",
+                  "length": 51
+                },
+                {
+                  "line": 11,
+                  "start": 15,
+                  "hint": "lesson7task4inject_filter_2",
+                  "possible_answer": "True",
+                  "length": 60
                 }
               ]
             }

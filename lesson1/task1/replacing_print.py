@@ -9,15 +9,15 @@ def get_current_rate(years):
     return rate
 
 def get_monthly_payment(principal, years):
-    print("Calling mortgage calculator")
+    print('Calling mortgage calculator')
 
     mon_rate = get_current_rate(years)/1200
     payments = years * 12
     print('Number of monthly payments %d' % payments)
     result = principal * (mon_rate/(1-math.pow((1+mon_rate), -payments)))
 
-    print("Calculated result is %f" % result)
-    print("Leaving mortgage calculator")
+    print('Calculated result is %f' % result)
+    print('Leaving mortgage calculator')
     return result
 
 if __name__ == '__main__':

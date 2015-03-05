@@ -12,15 +12,15 @@ class Mortgage(object):
         self.term = term
 
     def __str__(self):
-        return "Mortgage principal %f for %f years at %f rate" % (
+        return 'Mortgage principal %f for %f years at %f rate' % (
             self.principal, self.term, self.rate)
 
     def __repr__(self):
-        return "Mortgage(%f, %f, %f)" % (self.principal, self.rate, self.term)
+        return 'Mortgage(%f, %f, %f)' % (self.principal, self.rate, self.term)
 
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)
 
     obj = Mortgage(100000, 4.1, 15)
-    logger.debug("Created object: %s", obj)
+    logger.debug('Created object: %s', obj)
