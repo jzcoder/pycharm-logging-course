@@ -1,5 +1,5 @@
 # pycharm-logging-course
-Logging in Python course for PyCharm Educational Edition
+Logging in Python course for [PyCharm Educational Edition](https://www.jetbrains.com/pycharm-educational/)
 
 This course provides an introduction to the standard Python logging module.
 
